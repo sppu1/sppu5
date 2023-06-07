@@ -1,6 +1,6 @@
-int red_light_pin= 5;
-int green_light_pin = 6;
-int blue_light_pin = 3;
+int red_light_pin= 3;
+int green_light_pin = 5;
+int blue_light_pin = 6;
 
 unsigned int red,green,blue;
 

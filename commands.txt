@@ -1,0 +1,2 @@
+sudo snap connect arduino:raw-usb
+sudo usermod -a -G dialout $USER
